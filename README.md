@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-<img max-width=200 src="assets/1689097372934.jpg"/>
+<img max-width=200 src="assets/github.png"/>
 </div>
 <h4 align="center">
 💻 PH.D CSE <a href="https://www.linkedin.com/school/indian-institute-of-technology-gandhinagar-iitgn-/?originalSubdomain=in">IIT Gandhinagar</a> | 💬 connect <a href="https://www.linkedin.com/in/aamaanakbar//">Akbar Linkedin</a>
