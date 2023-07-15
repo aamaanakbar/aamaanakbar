@@ -11,10 +11,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-<img max-width=auto src="https://raw.githubusercontent.com/onlineashish/onlineashish/main/assets/Banner.png"/>
+<img max-width=auto src="https://raw.githubusercontent.com/aamaanakbar/aamaanakbar/main/assets/github.png"/>
 </div>
 <h4 align="center">
-💻 PH.D CSE <a href="https://www.linkedin.com/school/indian-institute-of-technology-gandhinagar-iitgn-/?originalSubdomain=in">IIT Gandhinagar</a> | 💬 connect <a href="https://www.linkedin.com/in/ashish-sah-1828b216a//">Ashish Linkedin</a>
+💻 PH.D CSE <a href="https://www.linkedin.com/school/indian-institute-of-technology-gandhinagar-iitgn-/?originalSubdomain=in">IIT Gandhinagar</a> | 💬 connect <a href="https://www.linkedin.com/in/aamaanakbar//">Akbar Linkedin</a>
 </h4>
 
 <br/>
@@ -28,5 +28,5 @@ You can click the Preview link to take a look at your changes.
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=onlineashish&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlineashish&hide=javascript,html,dart,ruby&layout=compact)  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aamaanakbar&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamaanakbar&hide=javascript,html,dart,ruby&layout=compact)  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aamaanakbar)
